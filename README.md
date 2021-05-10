@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukaDevic
 - 👀 I’m interested in all around software development and deployment with clean architecture and with well designed and optimized code.
-- 🌱 I’m currently learning about ways to more optimize and structure projects, about managing time and about teaching and mentoring.
+- 🌱 I’m currently working on ways to more optimize and structure projects, on managing time and on teaching and mentoring.
 - 💞️ I’m looking to collaborate on intresting and well designd projects.
 - 📫 How to reach me, @LukaDevic.
 
