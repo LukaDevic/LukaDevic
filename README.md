@@ -2,7 +2,7 @@
 - 👀 I’m interested in all around software development and deployment with clean architecture and with well designed and optimized code.
 - 🌱 I’m currently learning about ways to more optimize and structure projects, about managing time and about teaching and mentoring.
 - 💞️ I’m looking to collaborate on intresting and well designd projects.
-- 📫 You can reach me by sending me an email at luka.m.devic@gmail.com.
+- 📫 How to reach me, @LukaDevic.
 
 <!---
 LukaDevic/LukaDevic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
